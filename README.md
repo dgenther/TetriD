@@ -5,4 +5,4 @@ To play,
   or unzip both files to the same folder 
   and run TetriD.exe!
 
-Written and Created by: Derrick Genther
+Author: Derrick "Mortalitor" Genther
