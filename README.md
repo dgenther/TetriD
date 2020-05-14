@@ -1,11 +1,4 @@
-TTTTTTTTTTTT    EEEEEEEEEEE   TTTTTTTTTTTT    RRRRRRR     IIIIIIII    DDDDDDDD           
------TT---------EE-----------------TT---------RR-----RR------II-------DD------DD  
-     TT         EEEEEEEEEEE        TT         RR     RR      II       DD       DD
-     TT         EE                 TT         RRRRRRR        II       DD       DD
-     TT         EE                 TT         RR    RR       II       DD      DD
-     TT         EEEEEEEEEEE        TT         RR     RR   IIIIIIII    DDDDDDDD
-
-
+TETRID: A challenging game of Tetris.
 
 To play, 
   either run TetriD.exe right from the .zip 
