@@ -1,5 +1,5 @@
-TTTTTTTTTTTT    EEEEEEEEEEE   TTTTTTTTTTTT    RRRRRRR     IIIIIIII    DDDDDDDD
-     TT         EE                 TT         RR     RR      II       DD      DD
+TTTTTTTTTTTT    EEEEEEEEEEE   TTTTTTTTTTTT    RRRRRRR     IIIIIIII    DDDDDDDD           
+-----TT---------EE-----------------TT---------RR-----RR------II-------DD------DD  
      TT         EEEEEEEEEEE        TT         RR     RR      II       DD       DD
      TT         EE                 TT         RRRRRRR        II       DD       DD
      TT         EE                 TT         RR    RR       II       DD      DD
