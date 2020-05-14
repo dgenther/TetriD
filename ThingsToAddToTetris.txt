@@ -1,0 +1,4 @@
+GameOver pieces don't fall (not even important, it kinda looks cool)
+1-2-3 Countdown timer after reset
+Make reset create a new bag and replace current pieces
+Make pieces rotate-able counter-clockwise
