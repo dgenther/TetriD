@@ -32,7 +32,7 @@ float holdBoxOffsetY = 1;
 float nextBox1OffsetY = 5;
 float nextBox2OffsetY = 8.5;
 
-int rewardTime = 10;			// how much time you're rewarded per line
+int rewardTime = 8;			// how much time you're rewarded per line
 
 int iColor = 0;
 
@@ -1020,7 +1020,7 @@ void drawDataField(){
 	
 	changeColor(0,0,0);
 	glLineWidth(6);
-	drawText("Lines = +10 sec", (WINDOW_X - dataFieldOffsetX + squareLen/2 + squareLen * 5)/2-10-105, nextBox1OffsetY + squareLen*10.5, .4);
+	drawText("Lines = +8 sec", (WINDOW_X - dataFieldOffsetX + squareLen/2 + squareLen * 5)/2-10-105, nextBox1OffsetY + squareLen*10.5, .4);
 	drawText("Hold", squareLen-20, 35, .4);
 	drawText("Next", squareLen-20, 35+squareLen*4.5, .4);
 	
@@ -1038,7 +1038,7 @@ void drawDataField(){
 
 	changeColor(255,255,255);
 	glLineWidth(2);
-	drawText("Lines = +15 sec", (WINDOW_X - dataFieldOffsetX + squareLen/2 + squareLen * 5)/2-10-105, nextBox1OffsetY + squareLen*10.5, .4);
+	drawText("Lines = +8 sec", (WINDOW_X - dataFieldOffsetX + squareLen/2 + squareLen * 5)/2-10-105, nextBox1OffsetY + squareLen*10.5, .4);
 	drawText("Hold", squareLen-20, 35, .4);
 	drawText("Next", squareLen-20, 35+squareLen*4.5, .4);
 	
